@@ -4,17 +4,3 @@
 
 ### Send a command into the Theia Terminal
 `pwd`{{exec}}
-
-```ll```
-
-```
-ls
-```
-
-```js
-{
-"a": 1
-}
-```
-
-<pre>haha</pre>
